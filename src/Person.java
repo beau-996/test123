@@ -7,6 +7,8 @@ public class Person {
     int value = 3;
     int s2 =1;
     int s3 =3;
+    String string = "jijiko";
+
 
 
 
