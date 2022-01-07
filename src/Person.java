@@ -9,6 +9,7 @@ public class Person {
     int s3 =3;
     String string = "jijiko";
     short a = 87;
+    String hu = "989";
 
 
 
