@@ -8,6 +8,7 @@ public class Person {
     int s2 =1;
     int s3 =3;
     String string = "jijiko";
+    short a = 87;
 
 
 
