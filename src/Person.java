@@ -12,7 +12,8 @@ public class Person {
     String hu = "989";
     int yo = 46;
     int  bi = 89;
-
+    int ali = 890;
+    
 
 
 
