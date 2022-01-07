@@ -10,6 +10,8 @@ public class Person {
     String string = "jijiko";
     short a = 87;
     String hu = "989";
+    int yo = 46;
+    int  bi = 89;
 
 
 
